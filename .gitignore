@@ -55,3 +55,4 @@ coverage.xml
 
 .idea
 collections/newman
+.gradle/
